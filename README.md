@@ -16,6 +16,7 @@ Activate the module
 activate the module for catalog in Design / Customer Account 
 activate the module for catalog in product Description
 
+See Marketplace for all informations
 Marketplace link : https://www.clicshopping.org/forum/files/file/20-apps-customers-feedback/
 
 ![shippingtracking](https://github.com/ClicShoppingOfficialModulesV3/apps_customers_feedback/blob/master/ModuleInfosJson/customers_feedback.png)
