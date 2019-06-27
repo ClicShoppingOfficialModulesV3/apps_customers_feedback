@@ -19,6 +19,19 @@ activate the module for catalog in product Description
 See Marketplace for all informations
 Marketplace link : https://www.clicshopping.org/forum/files/file/20-apps-customers-feedback/
 
+All informations about the ClicShopping
+
+Community : https://www.clicshopping.org
+
+Software : https://github.com/ClicShopping
+
+Official add on : https://github.com/ClicShoppingOfficialModulesV3
+
+Community add on : https://github.com/ClicShoppingV3Community
+
+trademark License info : https://www.clicshopping.org/forum/trademark/
+
+
 ![shippingtracking](https://github.com/ClicShoppingOfficialModulesV3/apps_customers_feedback/blob/master/ModuleInfosJson/customers_feedback.png)
 
 
