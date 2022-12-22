@@ -1,0 +1,11 @@
+
+ module_products_info_customers_feedback = Do you want to enable the customers customers feedback orders ?
+ module_products_info_customers_feedback_description = Display the customers customers_feedback orders
+
+ module_products_info_customers_feedback_all_customers_feedback = See all comments
+ module_products_info_customers_feedback_write_review = Write a comment
+ heading_rewiews = Customers Reviews
+ text_review_date_added = Date added :
+ text_review_by = {{customer_name}}
+ button_all_customers_feedback =  Display all customers_feedback orders
+ button_write_review = Write a review

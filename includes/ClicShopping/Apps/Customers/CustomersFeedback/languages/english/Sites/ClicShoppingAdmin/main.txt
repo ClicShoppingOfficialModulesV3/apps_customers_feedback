@@ -1,0 +1,75 @@
+heading_title = Customers feedback
+module_me_title = Customers feedback
+module_me_short_title = Customers feedback
+
+text_customers_feedback =  Customers feedback
+text_configure =  configure App Module
+
+text_intro = This app allow you to manage the customers support in your administratoin. <br /><br />
+- Activate this module and activate the module Customers feedback fields located in the Customers menu
+
+module_me_introduction = The install process create the database settings for this module and the access menu
+
+button_back = Back
+button_install_title = Install
+button_configure = Configure
+button_save = Save
+button_dialog_uninstall =  Uninstall
+button_uninstall =  Uninstall
+button_delete = Delete
+button_cancel = Cancel
+button_insert = Insert
+button_back = Back
+button_reset = Reset
+button_update = Update
+button_archive = Achive
+button_customers_feedback = Customers feedback
+button_send =  Send
+
+dialog_uninstall_title = Uninstall
+dialog_uninstall_body = Do you want to install this App ?
+dialog_uninstall_title = Uninstall Module?
+dialog_uninstall_body = Are you sure you want to uninstall this module?
+
+alert_module_install_success = Module has been successfully installed.
+alert_module_uninstall_success = Module has been successfully uninstalled.
+alert_cfg_saved_success = Configuration parameters have been successfully saved.
+
+text_result_page = Page {{listing_from}} of {{listing_total}}
+text_display_number_of_link = Display <strong>{{listing_from}}</strong> to <strong>{{listing_to}}</strong> (on <strong>{{listing_total}}</strong>)
+
+tab_general = General
+
+table_heading_orders = order Number
+table_heading_rating = Rating
+table_heading_date_added = Date Added
+table_heading_action = Action
+table_heading_approved = Display in Catalog
+table_heading_approved_customer = Customer Approved
+table_heading_feedback_author = Customer
+
+table_heading_order_id = Order id
+table_heading_products_id = Product id
+table_heading_model = Model
+table_heading_products_name = Product name
+table_heading_price = Price
+table_heading_quantity = Quantity
+table_heading_final_price = Final price
+table_heading_Action = Action
+
+entry_order = order Number
+entry_from = Name of the customer
+entry_date = Comment Date
+entry_review = Customer comments
+entry_rating = Rating
+entry_status = Status
+entry_status_yes = Display the comment
+entry_status_no = No Display the comment
+
+title_reviews_general = Information general
+title_reviews_entry = Customer comments
+
+entry_accept_to_publish =  Accept by the customer to publish the comment on the website (display for all people)
+entry_feedback_publish_no = Non
+entry_feedback_publish_yes = Oui
+table_heading_product_order = Products taken by the customers

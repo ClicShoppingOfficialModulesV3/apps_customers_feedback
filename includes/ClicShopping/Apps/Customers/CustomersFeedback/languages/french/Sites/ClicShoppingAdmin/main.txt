@@ -1,0 +1,74 @@
+heading_title = Rétroactions des clients
+module_me_title = Rétroactions des clients
+module_me_short_title = Rétroactions des clients
+
+text_customers_feedback = Rétroactions des clients
+text_configure =  configurer App Module
+
+text_intro = Cette app vous permet de gerer vos support clients en attente de validation. <br /><br />
+- Activer ce module et activer le module rétroactions des clients localiser dans le menu Clients
+
+module_gr_introduction = Le processus d'installation installe la base de données et le menu
+
+button_install_title = Installer
+button_configure = Configurer
+button_save = Sauver
+button_dialog_uninstall =  Désinstaller
+button_uninstall =  Désinstaller
+button_delete = Supprimer
+button_cancel = Annuler
+button_insert =  Insérer
+button_back = Retour
+button_reset = Réinitialiser
+button_update = mettre à jour
+button_archive = Achive
+button_customers_feedback = Rétroactions des clients
+button_send =  Envoyer
+
+dialog_uninstall_title = Désinstaller
+dialog_uninstall_body = Souhaitez-vous installer cette App ?
+dialog_uninstall_title = Désinstaller le module?
+dialog_uninstall_body = Etes vous sur de désinstaller ce module?
+
+alert_module_install_success = Le module a été installée.
+alert_module_uninstall_success = Le module a été désinstallée.
+alert_cfg_saved_success = les paramètres de configuration ont été mises à jour.
+
+text_result_page = Page {{listing_from}} sur {{listing_total}}
+text_display_number_of_link = Affiche <strong>{{listing_from}}</strong> à <strong>{{listing_to}}</strong> (sur <strong>{{listing_total}}</strong>)
+
+tab_general = Général
+
+table_heading_orders = N° de Commande
+table_heading_rating = Evaluations
+table_heading_date_added = Date d'ajout
+table_heading_action = Action
+table_heading_approved = Visibilité Catalogue
+table_heading_approved_customer = Approbation Client
+table_heading_feedback_author = Client
+
+table_heading_order_id = N° Commande
+table_heading_products_id = id produit
+table_heading_model = Référence
+table_heading_products_name = Nom produit
+table_heading_price = Prix
+table_heading_quantity = Quantité
+table_heading_final_price = Price final
+table_heading_Action = Action
+
+entry_order = N° Commande
+entry_from = Nom du client
+entry_date = Date de l'avis
+entry_review = Avis du client
+entry_rating = Evaluations
+entry_status = Statut
+entry_status_yes = Afficher le commentaire
+entry_status_no = Ne pas afficher le commentaire
+title_reviews_general = Informations générales
+title_reviews_entry = Avis du client
+
+entry_accept_to_publish =  Acceptation du client de publier son commentaire sur le site (visible par tout le monde)
+entry_feedback_publish_no = Non
+entry_feedback_publish_yes = Oui
+table_heading_product_order = Produits commandés par le client
+
