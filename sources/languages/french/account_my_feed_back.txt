@@ -1,0 +1,18 @@
+
+navbar_title_1 = Mon compte
+navbar_title_2 = Mes rétroactions
+
+heading_title = Mes rétroactions / Témoignages
+
+text_intro_my_feed_back = <p><strong>aide sur la rétroaction</strong></p>
+<li>vous pouvez nous laisser une rétroaction sur la gestion de votre commande. Celles-ci apparaîtront dans votre espace pendant plusieurs jours</li>
+<li>vos avis nous intéressent et sont importants pour nous de connaitre votre opinion sur la qualité du service et du produit que vous avez reçu.</li>
+<li>nous nous réservons de publier votre commentaire selon les préférences que vous nous avez données lors de l'écriture de votre commentaire que vous avez réalisé.</li>
+<br />
+nous vous remercions de l'intérêt que vous apportez à nos produits et nos services.<br />
+l'équipe Commerciale
+
+module_account_customers_my_feedback_order_id_matchin = Succès : Commentaire enregistré
+module_account_customers_my_feedback_order_id_not_matchin = Aucun Numéro de commande trouvé, veuillez recommencer
+module_account_customers_my_feedback_review_text = Veuillez compléter votre commentaire, vous avez inséré un nombre de caracères insuffisant
+module_account_customers_my_feedback_review_rating = Veuillez évaluer le traitement de votre commande

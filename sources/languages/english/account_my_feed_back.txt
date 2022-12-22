@@ -1,0 +1,16 @@
+
+ navbar_title_1 = My account
+ navbar_title_2 = My feeds back
+
+ heading_title = MY comments / testimonials
+
+text_intro_my_feed_back','<p><strong>guidelines</strong></p>
+<li>you can insert a feedback on your order. Your feedback will be displayed several days</li>
+<li>your reviews are very important for us and it is important for us to know yours comments on the quality of service and product than you have received.</li>
+<li>we can pubish your comment We reserve publish your comments according to preferences you gave us when writing your comment that you made.</li>
+<br />Thant you .<br />Sales team');
+
+ module_account_customers_my_feedback_order_id_matchin = Success : Comments saved
+ module_account_customers_my_feedback_order_id_not_matchin = No order number registred
+ module_account_customers_my_feedback_review_text = Pleace, complet your comment with more informations
+ module_account_customers_my_feedback_review_rating = Please, rate the order process
