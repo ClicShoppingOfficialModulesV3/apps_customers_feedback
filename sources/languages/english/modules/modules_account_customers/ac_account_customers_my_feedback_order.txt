@@ -1,0 +1,8 @@
+module_account_customers_my_feedback_order_title = Do you want to display the feedbacks than the customer has made in this customer account ?
+module_account_customers_my_feedback_order_description = Display the feedbacks than the customer has made in this customer account
+
+module_account_customers_my_feedback_order_heading = Your feedback
+module_account_customers_my_feedback_order_text_of_5_stars = on 5 stars
+module_account_customers_my_feedback_order_button_order = See the order
+
+text_review_rating = Review Rating

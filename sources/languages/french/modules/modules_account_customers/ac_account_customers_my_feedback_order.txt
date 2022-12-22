@@ -1,0 +1,8 @@
+module_account_customers_my_feedback_order_title = Souhaitez-vous afficher les rétroactions que le client a fait dans son  compte client ?
+module_account_customers_my_feedback_order_description = Affiche les rétroactions que le client a fait dans son  compte client
+
+module_account_customers_my_feedback_order_heading = Vos récentes rétroactions
+module_account_customers_my_feedback_order_text_of_5_stars =  sur 5 etoiles
+module_account_customers_my_feedback_order_button_order =  Voir la commande
+
+text_review_rating = Evaluation du commentaire

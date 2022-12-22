@@ -1,0 +1,28 @@
+module_account_customers_my_feedback_title = Souhaitez-vous permettre au client de mettre ses commentaires sur le traitement d'une commande ?
+module_account_customers_my_feedback_description =  Ce module permet au client de connaitre ses commentaires et mettre en commentaire sur une commande ou produit passé
+
+module_account_customers_my_feedback_heading_title = Mes commentaires
+module_account_customers_my_feedback_heading_title = Ecrire une rétroaction sur votre commande et sa livraison
+module_account_customers_my_feedback_sub_title_from = Titulaire du commentaire
+module_account_customers_my_feedback_sub_title_review = Commentaire
+module_account_customers_my_feedback_text_no_html = Synthaxe HTML non permise
+module_account_customers_my_feedback_sub_title_rating = Evaluation
+module_account_customers_my_feedback_text_good = bon
+module_account_customers_my_feedback_text_bad = Mauvais
+module_account_customers_my_feedback_order_id = Numéro de commande
+
+module_account_customers_my_feedback_text_yes = Oui
+module_account_customers_my_feedback_text_no = Non
+module_account_customers_my_feedback_text_warning = *
+module_account_customers_my_feedback_text_accept = Acceptez-vous que l'on publie votre commentaire dans section témoignage ?
+
+text_into_my_feed_back =  merci de nous laisser votre rétroaction, nous apprécions votre opinion qui servira à améliorer nos services
+
+module_account_customers_my_feedback_no_html = Pas de  HTML
+module_account_customers_my_feedback_min_caracter = Minimun de caractères pour un commentaire accepté :
+
+text_privacy_conditions_description = Notre politique de confidentialité est consultable à tout moment sur {{store_name}}  en cliquant <a target="_blank" href="{{privacy_url}}" rel="noreferrer"><u>ici</u></a>.
+text_privacy_conditions_agree = Veuillez cocher cette case afin de donner votre consentement concernant notre politique de confidentialité
+
+button_back = Retour
+button_continue = Continuer

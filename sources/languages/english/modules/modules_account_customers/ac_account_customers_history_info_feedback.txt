@@ -1,0 +1,5 @@
+
+ module_account_customers_history_info_feedback_title = History Info : Do you want allow the write a feedback ?
+ module_account_customers_history_info_feedback_description = Allow the write a feedback
+
+ module_account_customers_history_info_feedback_button = Write a feedback

@@ -1,0 +1,4 @@
+module_account_customers_history_info_feedback_title = Historique Info : Souhaitez-vous permettre au client d'écrire une rétroaction sur la commande ?
+module_account_customers_history_info_feedback_description = Affiche au client d'écrire un rétroaction sur la commande
+
+module_account_customers_history_info_feedback_button = Ecrire une rétroaction

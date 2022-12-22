@@ -1,0 +1,31 @@
+
+module_account_customers_my_feedback_title = Do you want to enable this module customer feedback ?
+module_account_customers_my_feedback_description =  This module allow to display the order customer feedback  (service make)
+
+module_account_customers_my_feedback_heading_title = My Feedback
+
+module_account_customers_my_feedback_heading_title = Write a feedback on an order and shipment
+module_account_customers_my_feedback_sub_title_from = Autor
+module_account_customers_my_feedback_sub_title_review = Comment
+module_account_customers_my_feedback_text_no_html = Synthax HTML forbidden
+module_account_customers_my_feedback_sub_title_rating = Rating
+module_account_customers_my_feedback_text_good = Good
+module_account_customers_my_feedback_text_bad = Bad
+module_account_customers_my_feedback_order_id = Order number
+
+module_account_customers_my_feedback_text_yes = Yes
+module_account_customers_my_feedback_text_no = No
+module_account_customers_my_feedback_text_warning = *
+module_account_customers_my_feedback_text_accept = Do you accept to publish your comment on our website ?
+
+text_into_my_feed_back =  Thank you to let us our feedback, we appreciate your opinion to increase our services
+
+module_account_customers_my_feedback_no_html = No HTML
+module_account_customers_my_feedback_min_caracter = Minimun of caracters for a comment to sent accepted :
+
+text_privacy_conditions_description = The privacy statement are available always on {{store_name}} and can be read <a href="{{privacy_url}}" target="_blank" rel="noopener"><u>here</u></a>.
+text_privacy_conditions_agree = Please check this box to give your consent regarding our privacy policy
+
+
+button_back = Back
+button_continue = continue
